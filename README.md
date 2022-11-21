@@ -1,2 +1,2 @@
 # restaurace
-[Click here](https://hurmex.github.io/restaurace/restaurace1.html)
+[Click here](https://hurmex.github.io/restaurace/restaurace.html)
